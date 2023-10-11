@@ -1,0 +1,22 @@
+<!DOCTYPE html> 
+<html> 
+<head>
+<title>K21PP</title> 
+</head> 
+<body>  
+<h1>This is heading 1. This is a break <br /> added in this section.</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3> 
+<h4>This is heading 4</h4> 
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6> 
+<p>This is the first paragraph</p>
+<p>This is the second paragraph</p>
+<center><p>This is third paragraph</p></center>
+<p>An example of non-breaking spaces 12&nbsp;Angry&nbsp;Men</p>
+<!-- This is a single line as well as multi-line comment --!>
+<p><comment>This is a comment refer the code for more.</comment></p>
+<!-- The above line is not supported by all browsers --!>
+<p>The <abbr title="World Health Organisation">WHO</abbr> was founded in 1948.</p>
+</body> 
+</html>
