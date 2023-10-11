@@ -1,0 +1,57 @@
+<!DCOTYPE HTML>
+<html>
+<head>
+<title>
+list
+</title>
+</head>
+<body>
+<p><b><big>Unordered list</p></b></big>
+
+<ul>
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ul>
+
+<ul type="circle">
+<!--type=circle,disc,square-->
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ul>
+
+
+<p><b><big>Ordered list</p></b></big>
+
+<ol type="A">
+<!--type="1","I","i","a","A"-->
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ol>
+
+<ol type="A" start="3">
+<!--type="1","I","i","a","A"-->
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ol>
+
+
+<p><b><big>Definition list</p></b></big>
+
+<dl>
+<dt>
+HTML
+</dt>
+<dd>It is used to create structure of a webpage</dd>
+</dl>
+<dt>
+Term
+</dt>
+<dd>Definition of the term</dd>
+<!-- dl is defintion list, dt id definition term, dd is definition-->
+
+</body>
+</html>
