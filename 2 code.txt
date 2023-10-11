@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> HTML page </title>
+</head>
+<body>
+<p> WWF's goal is to : <q> Bulid a future where people live in harmony with nature.</q></p>
+
+<p> The <abbr title="World Health Organization"> WHO</abbr> was founded in 1948</p>
+
+<p><cite> The Scream </cite>by Edvard Munch. Painted in 1893</p>
+
+<p> Welcome to <b>LPU</b> Jalandhar</p>
+
+<p> Welcome to <i>LPU</i> Jalandhar</p>
+
+<p> Welcome to <u>LPU</u> Jalandhar</p>
+
+<p> Welcome to <strike>LPU</strike> Jalandhar</p>
+
+<p> An example of <sup>superscript</sup> formatting tag.</p>
+
+<p> An example of <sub>subscript</sub> formatting tag.</p>
+
+<p> An example of <ins>text</ins> formatting tag.</p>
+
+<p> An example of <del>text</del> formatting tag.</p>
+
+<p> Welcome to <big>LPU</big> Jalandhar</p>
+
+<p> Welcome to <small>LPU</small> Jalandhar</p>
+
+<!--Grouping content --!>
+
+<div align="middle">
+<p>Welcome to HTML</p>
+<p>Welcome to Javascript</p>
+<p>Welcome to CSS</p>
+</div>
+
+<!-- Span tag--!>
+
+<p>This is an example of <span style="color:red"> Span tag </span> and the <span style="color:green"> div tag</span> along with CSS</p>
+<p>This is an exapmle of <em> emphasised </em> tag </p>
+<p>This is an example of <mark style="color:blue">marked</mark> tag </p>
+<p><bdo dir="rtl">This text will go right to left</bdo></p>
+<p>Format style is computerised <code> Computerised text</code></p>
+
+<p align="left"> This is left alligned</p>
+<p align="center"> This is center alligned</p>
+<p align="right"> This is right alligned</p>
+<p style="font-family:arial; color:blue;"> Some text</p>
+
+</body>
+</html>
